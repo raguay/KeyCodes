@@ -1,0 +1,31 @@
+{
+  "name": "KeyCodes",
+  "frontend:build": "npm run build",
+  "frontend:install": "npm install",
+  "frontend:dev": "",
+  "frontend:dev:watcher": "npm run build:watch",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "KeyCodes",
+  "OutputType": "",
+  "Platform": "darwin/universal",
+  "runNonNativeBuildHooks": false,
+  "postBuildHooks": null,
+  "Author": {
+    "name": "Richard Guay",
+    "email": "raguay@customct.com"
+  },
+  "Info": {
+    "companyName": "KeyCodes",
+    "productName": "KeyCodes",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright by Richard Guay",
+    "comments": "Built using Wails (https://wails.app)"
+  },
+  "debounceMS": 2000,
+  "devserverurl": "http://localhost:34115",
+  "appargs": "",
+  "nsisType": ""
+}
